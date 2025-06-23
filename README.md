@@ -28,9 +28,9 @@ java -cp src StudentRecordCSVApp
 
 ## Technologies Used
 
--Java SE (Standard Edition)
--HashMap for storing data in memory
--BufferedReader / BufferedWriter for CSV file handling
--Java File I/O
--Console-based interaction
+- Java SE (Standard Edition)
+- HashMap for storing data in memory
+- BufferedReader / BufferedWriter for CSV file handling
+- Java File I/O
+- Console-based interaction
 
